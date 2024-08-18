@@ -1,0 +1,2 @@
+- 🌱 I’m currently learning Java
+- 📫 How to reach me ? message me on discord @vesder
