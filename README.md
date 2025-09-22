@@ -1,13 +1,12 @@
 <h1 align="center">Hi, you can call me vesder</h1>
 <h3 align="center">Currently developing Minecraft Server & Plugins</h3>
 
-- 🔭 I’m currently working on [BlazeNetwork](https://discord.gg/8cq9WqjwUX)
+- 🔭 I’m currently working on [My Plugins](https://www.spigotmc.org/resources/authors/vesder.1603738/)
 
 - 📫 How to reach me **message me on discord @vesder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@vesder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@vesder" height="30" width="40" /></a>
 <a href="https://discord.gg/8cq9WqjwUX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8cq9WqjwUX" height="30" width="40" /></a>
 </p>
 
